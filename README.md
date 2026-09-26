@@ -20,3 +20,5 @@ The wiki is made using GitHub's wiki feature, you can go to the wiki tab or clic
 
 ## Community
 We have an official Discord server open to the public [here](https://discord.gg/TJVKHS4).
+
+AAAAAAAAAAA
